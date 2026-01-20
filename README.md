@@ -1,6 +1,7 @@
 🌿 Plant Disease Prediction using CNN
 
 An end-to-end Deep Learning project that detects plant leaf diseases from images using Convolutional Neural Networks (CNNs) and provides real-time predictions through a Streamlit web application.
+
 Linkedin Link: - https://www.linkedin.com/posts/krishna-bediofficial_deeplearning-cnn-computervision-activity-7415646884196663296-9maJ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFkctyoBBycA3L3MTDlDlYarvR-uKytc_54
 
 ---
